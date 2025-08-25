@@ -6,8 +6,7 @@ Play against a friend in the same browser!
 ---
 
 ## 🚀 Live Demo  
-👉 [Play Now](https://your-username.github.io/tic-tac-toe/)  
-*(replace with your GitHub Pages link)*  
+👉 [Play Now](https://tic-tac-toe-game-ten-self.vercel.app//)   
 
 ---
 
